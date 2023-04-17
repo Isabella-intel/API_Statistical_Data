@@ -1,2 +1,13 @@
 This is an API project, that fetches data then, sorts, cleans, and displays it.
 this will NOT  be the backend of the project.
+
+
+12/04/2023:
+ 1. Created git repository locally and remote. However they are on seperate branches, remote(main), and local (master). figure out how to merge these.
+
+
+13/04/2023:
+
+ 1. Added in packages [axios, cheerio + express].
+ 2. Launched and tesed connection on '/homepage', working.
+ 3. 
