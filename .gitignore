@@ -1,3 +1,5 @@
 # Ignore all files in the "node_modules" directory.
 node_modules/
 
+# Environment file may contain sensitive information.
+.env

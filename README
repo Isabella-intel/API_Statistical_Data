@@ -14,8 +14,13 @@ This is an API project, that fetches data, sorts, cleans, and formats it for dis
  1. Set up git ignore file, for node modules, to reduce project size.
  2. Created "resources.js" to store all websites addresses(url's) to be scrubbed.
 
-17/04/2023:
+18/04/2023:
  1. Reuploaded API structure code from climate change API .
  2. App crash due to axios error. -unsolved.
 
- 
+ 21/04/2023:
+ 1. added pdf extractor in resources.js
+ 2. added new libraries. 
+
+24/04/2023:
+ 1. added pdf text extraction method in extract.js file.
